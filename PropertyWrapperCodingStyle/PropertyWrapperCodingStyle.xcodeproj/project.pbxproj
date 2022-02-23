@@ -29,6 +29,7 @@
 		3AF9A86627C6272E00AAE9BA /* PropertyWrapperCodingStyle.docc */ = {isa = PBXFileReference; lastKnownFileType = folder.documentationcatalog; path = PropertyWrapperCodingStyle.docc; sourceTree = "<group>"; };
 		3AF9A86C27C6272E00AAE9BA /* PropertyWrapperCodingStyleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PropertyWrapperCodingStyleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3AF9A87127C6272E00AAE9BA /* PropertyWrapperCodingStyleTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PropertyWrapperCodingStyleTests.swift; sourceTree = "<group>"; };
+		3AF9A88127C6373200AAE9BA /* CodingStylePackage */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = CodingStylePackage; path = ../CodingStylePackage; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +54,7 @@
 		3AF9A85827C6272E00AAE9BA = {
 			isa = PBXGroup;
 			children = (
+				3AF9A88127C6373200AAE9BA /* CodingStylePackage */,
 				3AF9A86427C6272E00AAE9BA /* PropertyWrapperCodingStyle */,
 				3AF9A87027C6272E00AAE9BA /* PropertyWrapperCodingStyleTests */,
 				3AF9A86327C6272E00AAE9BA /* Products */,
