@@ -1,3 +1,3 @@
 # CodingStylePackage
 
-A description of this package.
+Property wrapper for string coding style to camelCase
