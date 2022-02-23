@@ -1,1 +1,3 @@
 # PropertyWrapperCodingStyle
+
+Decoring string library
